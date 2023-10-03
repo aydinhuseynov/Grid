@@ -1,0 +1,17 @@
+[
+{
+    "name":"Mustafa murat cosqun",
+    "department":"bilisim",
+    "salary":3500
+},
+{
+    "name":"Oguz altun",
+    "department":"bilisim",
+    "salary":4000
+},
+{
+    "name":"sehat say",
+    "department":"pazarlama",
+    "salary":5000
+}
+]
